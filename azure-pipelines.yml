@@ -15,4 +15,3 @@ steps:
     script: |
       javac Main.java
       java Main
-- 
